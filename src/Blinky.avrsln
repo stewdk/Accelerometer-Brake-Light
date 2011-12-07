@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "Blinky", "Blinky.avrgccproj", "{86B21D98-A8B3-4B6A-BF56-44A4AB3DD8D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B21D98-A8B3-4B6A-BF56-44A4AB3DD8D2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{86B21D98-A8B3-4B6A-BF56-44A4AB3DD8D2}.Debug|AVR.Build.0 = Debug|AVR
+		{86B21D98-A8B3-4B6A-BF56-44A4AB3DD8D2}.Release|AVR.ActiveCfg = Release|AVR
+		{86B21D98-A8B3-4B6A-BF56-44A4AB3DD8D2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
